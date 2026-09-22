@@ -11,4 +11,9 @@ python
 - voice chatting
 - database
 - script repair with voice commands
-- jadi MY BINI
+- jadi MBG(MY BINI GWH)
+- desktop animation
+- dll
+
+  # harapan final
+  - [Human Cyber Girl](https://myanimelist.net/character/67169/Takane_Enomoto) (Ene atau Takane Enamoto)
