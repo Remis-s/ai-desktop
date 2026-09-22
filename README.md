@@ -3,10 +3,8 @@ ollama
 vroid studio
 python
 # fitur
-- voice commands - open software - talking - voice chatting
-- database - script repair with voice commands
-- jadi MBG(MY BINI GWH) - desktop animation
-- dll
+- voice commands - open software - talking - voice chatting - database - script repair with voice commands
+- jadi MBG(MY BINI GWH) - desktop animation - dll
 
   # harapan final
   - [Human Cyber Girl](https://myanimelist.net/character/67169/Takane_Enomoto) (Ene atau Takane Enamoto) from [Mekakucity Actors](https://myanimelist.net/anime/21603/Mekakucity_Actors)
