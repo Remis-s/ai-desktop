@@ -3,7 +3,7 @@
 ollama
 vroid studio
 python
-# unity.com
+- menggunakan [unity](unity.com)
 # fitur
 - voice commands
 - open software
