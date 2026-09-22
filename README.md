@@ -17,3 +17,4 @@ python
 
   # harapan final
   - [Human Cyber Girl](https://myanimelist.net/character/67169/Takane_Enomoto) (Ene atau Takane Enamoto)
+  - 
