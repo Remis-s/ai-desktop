@@ -1,9 +1,7 @@
-
-# ai-desktop
+# ai-desktop [unity](unity.com)
 ollama
 vroid studio
 python
-- menggunakan [unity](unity.com)
 # fitur
 - voice commands - open software
 - talking - voice chatting - database
