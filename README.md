@@ -1,4 +1,4 @@
-# ai-desktop [unity](unity.com)
+# ai-desktop [unity](unity.com) version
 ollama
 vroid studio
 python
