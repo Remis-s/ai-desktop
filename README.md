@@ -3,11 +3,9 @@ ollama
 vroid studio
 python
 # fitur
-- voice commands - open software
-- talking - voice chatting - database
-- script repair with voice commands
-- jadi MBG(MY BINI GWH)
-- desktop animation
+- voice commands - open software - talking - voice chatting
+- database - script repair with voice commands
+- jadi MBG(MY BINI GWH) - desktop animation
 - dll
 
   # harapan final
