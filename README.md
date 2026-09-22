@@ -5,11 +5,8 @@ vroid studio
 python
 - menggunakan [unity](unity.com)
 # fitur
-- voice commands
-- open software
-- talking
-- voice chatting
-- database
+- voice commands - open software
+- talking - voice chatting - database
 - script repair with voice commands
 - jadi MBG(MY BINI GWH)
 - desktop animation
